@@ -33,4 +33,4 @@
 ![image](https://github.com/LiangWei88/WebDevDictCN/raw/master/donate/aliPay.png)
 
 ## 关键词
-前端 开发 输入法 词库 编程 计算机 web frontend develop 搜狗输入法 讯飞输入法 自定义词库 个性化词库 导入词库
+前端 开发 输入法 词库 编程 计算机 程序员 程序猿 互联网 电脑 工程师 攻城狮 web frontend develop 搜狗输入法 讯飞输入法 自定义词库 个性化词库 导入词库 中文
