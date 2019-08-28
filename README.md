@@ -28,7 +28,8 @@
 
 ## 支持
 这个版本汇集了多个词库，感谢这些朋友将自己的词库发布出来，也不知道词库这东西有没有版权问题，
-如果这个对你有用，请给一个 star，也欢迎扫码请我吃包辣条。
+如果这个对你有用，请给一个 star，也欢迎扫码请我吃包辣条。  
+
 ![image](https://github.com/LiangWei88/WebDevDictCN/raw/master/donate/weixinPay.png)
 ![image](https://github.com/LiangWei88/WebDevDictCN/raw/master/donate/aliPay.png)
 
